@@ -1,4 +1,4 @@
-# 🌸 H&D Scents — WhatsApp AI FAQ Assistant
+# 🌸 H&D Scents  WhatsApp AI FAQ Assistant
 
 <p align="center">
   <em>An AI-powered WhatsApp customer support bot for a perfume business,<br/>
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-Customers message the business's WhatsApp number directly and get **instant, accurate answers** to common questions — hours, pricing, delivery, returns, samples, and more — without waiting for a human agent.
+Customers message the business's WhatsApp number directly and get **instant, accurate answers** to common questions — hours, pricing, delivery, returns, samples, and more  without waiting for a human agent.
 
 This project demonstrates end-to-end integration of a **Retrieval-Augmented Generation (RAG) chatbot with a real messaging channel**, a common requirement for SMB customer-support automation work in the South Asian freelance market.
 
